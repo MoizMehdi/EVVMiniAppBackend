@@ -8,7 +8,7 @@ Prerequisites
 1. Clone the repository:
    =bash
    Using HTTPS:
-   git clone https://github.com/MoizMehdi/EVV-MiniApp-Backend.git
+   git clone https://github.com/MoizMehdi/EVVMiniAppBackend.git
 
 2. Navigate to the backend directory:
    =bash
@@ -18,7 +18,7 @@ Prerequisites
    =bash
    npm install
 
-4. Create a `.env` file in the EVV-MINIAPP-BACKEND directory and configure the following variables:
+4. Create a `.env` file in the EVVMiniAppBackend directory and configure the following variables:
    env:
    PORT=4010
    HOST=0.0.0.0
