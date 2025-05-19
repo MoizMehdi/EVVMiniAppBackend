@@ -12,7 +12,7 @@ Prerequisites
 
 2. Navigate to the backend directory:
    =bash
-   cd EVV-MINIAPP-BACKEND
+   cd EVVMiniAppBackend
 
 3. Install dependencies:
    =bash
