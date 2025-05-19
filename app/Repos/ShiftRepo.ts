@@ -26,7 +26,7 @@ async logVisit(request) {
         timestamp: new Date().toISOString(),
         location
       })
-    } else if (logs.length && logs[0].type === 'start') {
+    } else if (logs.length == 1 && logs[0].type === 'start') {
       logs.push({
         type: 'end',
         timestamp: new Date().toISOString(),
